@@ -187,7 +187,6 @@ var objeto = {
     { description: "Python es lo mejor", likes: 30 },
   ],
 };
-
 console.log(sumarLikesDeUsuario(objeto));
 
 function agregarMetodoCalculoDescuento(objetoProducto) {
